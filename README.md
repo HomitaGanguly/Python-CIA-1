@@ -67,9 +67,11 @@ hence you can select from the options and go on to view order summary using 'vie
 Here is an example of how the CLI would look:
 * User Account: ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/100497e2-a61d-4488-88a4-fc2f44f372a3)
 
-* Order :
-  ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/4752cabd-dffb-4190-b2bf-6cbdb9d1fb28)
-  ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/9d9789db-6653-4371-93b0-a1d441c7633f)
+* Order : ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/4752cabd-dffb-4190-b2bf-6cbdb9d1fb28)
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/9d9789db-6653-4371-93b0-a1d441c7633f)
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/d8946258-2394-4178-b136-3c6f80b5bef4)
+* 
+  
   
 
 
