@@ -28,27 +28,27 @@ This is a basic Python "food ordering project" that allows users to create a per
    * **os (readlink)**: To read the value of symbolic link and return the path it points to.
    * **simple_colors**: To enhance/beautify the command line interface.
 4. Functions defined: 
-   * Used for creating user account interface:
+   * ***Used for creating user account interface***:
       * **is_user_exists(username)**:   
       * create_user_account(x,y) 
       * validate_password(password) 
       * login_user(username, password)  
-   * Used for creating the main menu and ordering interface:
+   * ***Used for creating the main menu and ordering interface***:
       * **load_menu()**: Function to load the menu from the CSV file defined using for loop if conditional statements and list functions.
       * **display_categories(menu)**: Function to display the categories of food a restaurant serves defined using for loop and string function. 
       * **display_menu_items(menu, restaurant, category)**: Function to display the menu items within a category defined using for loop, string and dictionary function.  
       * **calculate_order_price(order, menu)**: Function to calculate the final order price defined using for loop, string, dictionary and list function. 
       * **view_cart(order)**: Function to view what you ordered and due payment defined using for loop, if-else conditional statements and string functions.
-      * **assign_delivery_boy(delivery_boys, order)**: 
-      * **checkout(order)**:
-      * **generate_order_summary(order, delivery_boy)**:
-   * Used for exiting the program: 
-      * **exit_program()**: 
+      * **assign_delivery_boy(delivery_boys, order)**: Function to assign random delivery boys if ordered. 
+      * **checkout(order)**: Function to give payment options to users.
+      * **generate_order_summary(order, delivery_boy)**: Function to generate order summary in the form of a data frame dpne using pandas package.
+   * ***Used for exiting the program***: 
+      * **exit_program()**: Function tp exit the program (system).
 
 ## Requirements 
 1. Ensure the menu dataset file (menu.csv) is in the desired directory.
 2. Ensure the users dataset file (users.csv) is in the desired directory. 
-3. 
+3. After importing the files make sure to run all the given codes so as to ensure installation of necessary packages.
 
 
 ## Usage
