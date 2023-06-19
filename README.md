@@ -29,10 +29,11 @@ This is a basic Python "food ordering project" that allows users to create a per
    * **simple_colors**: To enhance/beautify the command line interface.
 4. Functions defined: 
    * ***Used for creating user account interface***:
-      * **is_user_exists(username)**:   
-      * create_user_account(x,y) 
-      * validate_password(password) 
-      * login_user(username, password)  
+      * **is_user_exists(username)**: Function defined to check whether the input username aklready exists or not. 
+      * **create_user_account(x,y)** : Function defined to create a new user account incase the username/password does not exist.
+      * **validate_password(password)**: Function to help users create an appropriate password by following the given rubrics.
+      * **login_user(username, password)**: Function defined to finaaly let the users login through given details.
+      * **account_login_or_create()**: Main function defined to print the ciommand line interface for creating an account by calling the above mentioned functions. 
    * ***Used for creating the main menu and ordering interface***:
       * **load_menu()**: Function to load the menu from the CSV file defined using for loop if conditional statements and list functions.
       * **display_categories(menu)**: Function to display the categories of food a restaurant serves defined using for loop and string function. 
@@ -41,9 +42,10 @@ This is a basic Python "food ordering project" that allows users to create a per
       * **view_cart(order)**: Function to view what you ordered and due payment defined using for loop, if-else conditional statements and string functions.
       * **assign_delivery_boy(delivery_boys, order)**: Function to assign random delivery boys if ordered. 
       * **checkout(order)**: Function to give payment options to users.
-      * **generate_order_summary(order, delivery_boy)**: Function to generate order summary in the form of a data frame dpne using pandas package.
-   * ***Used for exiting the program***: 
+      * **generate_order_summary(order, delivery_boy)**: Function to generate order summary in the form of a data frame dpne using pandas package
       * **exit_program()**: Function tp exit the program (system).
+      * **main()**: Main function to get the user command line interface for ordering using various options.
+        
 
 ## Requirements 
 1. Ensure the menu dataset file (menu.csv) is in the desired directory.
@@ -72,7 +74,11 @@ Here is an example of how the CLI would look:
 * ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/9d9789db-6653-4371-93b0-a1d441c7633f)
 * ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/d8946258-2394-4178-b136-3c6f80b5bef4)
 * ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/3d1f9d75-26ad-4b7f-a478-ed0010209d6d)
-* 
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/54c64e16-26de-4f68-95be-cfbed2b54da1)
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/83e4088d-f9c4-4ae8-9882-da38ec210287)
+
+
+# Thank you for viewing our project!
   
   
 
