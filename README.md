@@ -69,6 +69,7 @@ Here is an example of how the CLI would look:
 
 * Order :
   ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/4752cabd-dffb-4190-b2bf-6cbdb9d1fb28)
+  ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/9d9789db-6653-4371-93b0-a1d441c7633f)
   
 
 
