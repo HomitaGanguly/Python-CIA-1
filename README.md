@@ -65,7 +65,8 @@ hence you can select from the options and go on to view order summary using 'vie
 
 ## Sample Output
 Here is an example of how the CLI would look:
-* User Account: (add ss)
+* User Account: ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/100497e2-a61d-4488-88a4-fc2f44f372a3)
+
 * Order : (add ss)
 
 
