@@ -2,7 +2,7 @@
 
 ## Submitted by
 1. Simran Adwani (Reg no. 22112335) (add github profile link)
-2. Homita Ganguly (Reg no. 22112314) (add github profile link)
+2. Homita Ganguly (Reg no. 22112314) (https://github.com/HomitaGanguly)
 
 ## Description
 This is a basic Python "food ordering project" that allows users to create a personal account and place food orders from various restaurants located in Lavasa, Pune and their menus and calculates the total cost of the order, gives the user options of view cart to view order summary, checkout to make payment and lastly an option to quit the program. The project provides a simple command-line interface (CLI) for users to interact with.
