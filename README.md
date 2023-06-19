@@ -8,42 +8,42 @@
 This is a basic Python "food ordering project" that allows users to create a personal account and place food orders from various restaurants located in Lavasa, Pune and their menus and calculates the total cost of the order, gives the user options of view cart to view order summary, checkout to make payment and lastly an option to quit the program. The project provides a simple command-line interface (CLI) for users to interact with.
 
 ## Features
-* Allows user to login if an account exists by entering valid username and password otherwise allows user to create a personal account
+* **Allows user to login if an account exists by entering valid username and password otherwise allows user to create a personal account**
    * with unique username
    * with validated password
-* Allows user to place an order
+* **Allows user to place an order**
    * allows user to select restaurants from given options
    * allows user to select items and quantities from the available category of food and  based on the selected restaurant
    * allows user to see the order summary including specific items and their quantities and final price
    * allows uset to make payment
-* Allows user to quit the program with or without ordering any item
+* **Allows user to quit the program with or without ordering any item**
 
 ## Functionality
-1. class User : A class providing user information which includes name, adress and payment information
-2. class Order : A class to represent the order of an user which includes user details, items and total cost
+1. **class User** : A class providing user information which includes name, adress and payment information
+2. **class Order** : A class to represent the order of an user which includes user details, items and total cost
 3. Packages imported: 
-   * csv: To read and edit the "user" csv file and to read from the "menu" csv file
-   * pandas: To display the order summary in a structured format
-   * random: To randomly assign delivery boys and generate delivery timings.
-   * os (readlink): To read the value of symbolic link and return the path it points to.
-   * simple_colors: To enhance/beautify the command line interface.
+   * **csv**: To read and edit the "user" csv file and to read from the "menu" csv file
+   * **pandas**: To display the order summary in a structured format
+   * **random**: To randomly assign delivery boys and generate delivery timings.
+   * **os (readlink)**: To read the value of symbolic link and return the path it points to.
+   * **simple_colors**: To enhance/beautify the command line interface.
 4. Functions defined: 
    * Used for creating user account interface:
-      * is_user_exists(username)  
+      * **is_user_exists(username)**:   
       * create_user_account(x,y) 
       * validate_password(password) 
       * login_user(username, password)  
    * Used for creating the main menu and ordering interface:
-      * load_menu() 
-      * display_categories(menu) 
-      * display_menu_items(menu, restaurant, category) 
-      * calculate_order_price(order, menu) 
-      * view_cart(order)
-      * assign_delivery_boy(delivery_boys, order)
-      * checkout(order)
-      * generate_order_summary(order, delivery_boy)
+      * **load_menu()**: Function to load the menu from the CSV file defined using for loop if conditional statements and list functions.
+      * **display_categories(menu)**: Function to display the categories of food a restaurant serves defined using for loop and string function. 
+      * **display_menu_items(menu, restaurant, category)**: Function to display the menu items within a category defined using for loop, string and dictionary function.  
+      * **calculate_order_price(order, menu)**: Function to calculate the final order price defined using for loop, string, dictionary and list function. 
+      * **view_cart(order)**: Function to view what you ordered and due payment defined using for loop, if-else conditional statements and string functions.
+      * **assign_delivery_boy(delivery_boys, order)**: 
+      * **checkout(order)**:
+      * **generate_order_summary(order, delivery_boy)**:
    * Used for exiting the program: 
-      * exit_program() 
+      * **exit_program()**: 
 
 ## Requirements 
 1. Ensure the menu dataset file (menu.csv) is in the desired directory.
