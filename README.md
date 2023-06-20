@@ -48,9 +48,19 @@ This is a basic Python "food ordering project" that allows users to create a per
         
 ## Requirements 
 1. Ensure the menu dataset file (menu.csv) is in the desired directory.
-2. Ensure the users dataset file (users.csv) is in the desired directory. 
-3. After importing the files make sure to run all the given codes so as to ensure installation of necessary packages.
-4. Make sure to follow the prompts to ensure smooth functioning of the system.
+    * Columns in the csv file:
+        * Restaurant
+        * Category
+        * Items
+        * Price
+3. Ensure the users dataset file (users.csv) is in the desired directory.
+    * Columns in the csv file:
+        * Name
+        * Adress
+        * Payment
+        * Password
+5. After importing the files make sure to run all the given codes so as to ensure installation of necessary packages.
+6. Make sure to follow the prompts to ensure smooth functioning of the system.
 
 ## Usage
 1. Clone this repository to your local machine or download the source code.
@@ -66,15 +76,9 @@ hence you can select from the options and go on to view order summary using 'vie
 
 ## Sample Output
 Here is an example of how the CLI would look:
-* ***User Account***: ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/100497e2-a61d-4488-88a4-fc2f44f372a3)
+* ***User Account***: 
 
 * ***Order*** :
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/4752cabd-dffb-4190-b2bf-6cbdb9d1fb28)
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/9d9789db-6653-4371-93b0-a1d441c7633f)
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/d8946258-2394-4178-b136-3c6f80b5bef4)
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/3d1f9d75-26ad-4b7f-a478-ed0010209d6d)
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/54c64e16-26de-4f68-95be-cfbed2b54da1)
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/83e4088d-f9c4-4ae8-9882-da38ec210287)
 
 
 # Thank you for viewing our project!
