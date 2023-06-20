@@ -1,7 +1,7 @@
 # Lavasa Food Ordering System
 
 ## Submitted by
-1. Simran Adwani (Reg no. 22112335) (add github profile link)
+1. Simran Adwani (Reg no. 22112335) (https://github.com/simranadwani)
 2. Homita Ganguly (Reg no. 22112314) (https://github.com/HomitaGanguly)
 
 ## Description
