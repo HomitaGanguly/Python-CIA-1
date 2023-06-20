@@ -27,6 +27,7 @@ This is a basic Python "food ordering project" that allows users to create a per
    * **random**: To randomly assign delivery boys and generate delivery timings.
    * **os (readlink)**: To read the value of symbolic link and return the path it points to.
    * **simple_colors**: To enhance/beautify the command line interface.
+   * **tabulate**: To return the bill/order summary in a proper tabulated format.
 4. Functions defined: 
    * ***Used for creating user account interface***:
       * **is_user_exists(username)**: Function defined to check whether the input username aklready exists or not. 
