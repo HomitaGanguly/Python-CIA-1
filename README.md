@@ -1,8 +1,8 @@
 # Lavasa Food Ordering System
 
 ## Submitted by
-1. Simran Adwani (Reg no. 22112335) (https://github.com/simranadwani)
-2. Homita Ganguly (Reg no. 22112314) (https://github.com/HomitaGanguly)
+1. Homita Ganguly (Reg no. 22112314) (https://github.com/HomitaGanguly)
+2. Simran Adwani (Reg no. 22112335) (https://github.com/simranadwani)
 
 ## Description
 This is a basic Python "food ordering project" that allows users to create a personal account and place food orders from various restaurants located in Lavasa, Pune and their menus and calculates the total cost of the order, gives the user options of view cart to view order summary, checkout to make payment and lastly an option to quit the program. The project provides a simple command-line interface (CLI) for users to interact with.
@@ -46,18 +46,17 @@ This is a basic Python "food ordering project" that allows users to create a per
       * **exit_program()**: Function tp exit the program (system).
       * **main()**: Main function to get the user command line interface for ordering using various options.
         
-
 ## Requirements 
 1. Ensure the menu dataset file (menu.csv) is in the desired directory.
 2. Ensure the users dataset file (users.csv) is in the desired directory. 
 3. After importing the files make sure to run all the given codes so as to ensure installation of necessary packages.
-
+4. Make sure to follow the prompts to ensure smooth functioning of the system.
 
 ## Usage
 1. Clone this repository to your local machine or download the source code.
 2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the following command to start the food ordering system: (to be written)(name at command prompt (eg. python, py or conda) after importing the collab or jupyter file)
-4. Follow the prompts in the CLI to select food items, quantities, and provide any special instructions or dietary restrictions.
+3. Run the command to start the food ordering system: for eg: python python_mini_project.py 
+4. Follow the prompts in the CLI to select the restaurant, food items, quantities to get further options.
 5. Once you have completed your order, the system will keep on giving you the following options : 
    1. Browse the menu
    2. View my cart
