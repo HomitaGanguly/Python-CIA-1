@@ -77,9 +77,9 @@ hence you can select from the options and go on to view order summary using 'vie
 
 ## Sample Output
 Here is an example of how the CLI would look:
-* ***User Account***: 
+* ***User Account***: ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/be5837c9-c305-45c1-bd44-358db9c3df8b)
 
-* ***Order*** :
+* ***Order*** : 
 
 
 # Thank you for viewing our project!
