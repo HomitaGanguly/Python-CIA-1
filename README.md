@@ -66,7 +66,7 @@ This is a basic Python "food ordering project" that allows users to create a per
 ## Usage
 1. Clone this repository to your local machine or download the source code.
 2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the command to start the food ordering system: for eg: python/conda python_mini_project.py 
+3. Run the command in your prompt to start the food ordering system: for eg: python/conda python_mini_project(food_delivery).py 
 4. Follow the prompts in the CLI to select the restaurant, food items, quantities to get further options.
 5. Once you have completed your order, the system will keep on giving you the following options : 
    1. Browse the menu
