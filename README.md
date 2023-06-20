@@ -80,7 +80,11 @@ Here is an example of how the CLI would look:
 * ***User Account***: ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/712d456c-0456-4762-ac2a-1f719da1bc5d)
 
 * ***Order*** :
-* 
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/ce6073f9-397f-4ded-8503-dc1c8de8c0e0)
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/757a1705-fa64-4770-9ef9-f7cc6e640dc8)
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/a46d8266-f625-4f7f-887b-cb3e7be7f7d7)
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/288f8caf-777a-4e67-8fe0-0f5ebc4156ff)
+* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/8abf8c7d-aaa6-4f0a-b0bc-3a2583366170)
 
 
 # Thank you for viewing our project!
